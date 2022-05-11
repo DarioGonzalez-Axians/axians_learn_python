@@ -31,6 +31,7 @@
 - Legible/entendible                                                   : +30 puntos
 - Muy facilmente legible/entendible                                    : +50 puntos adicionales
 - Bien optimizado (rápido)                                             : +10 puntos
+- Si el programa es robusto (compruebas inputs y excepciones)          : +20 puntos
 - Comentado para demostrar que sabes lo que haces                      : +15 puntos
 - Solución creativa                                                    : +10 puntos
 - Encuentro que tu solución viene claramente de internet               : -40 puntos
