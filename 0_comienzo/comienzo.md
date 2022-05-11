@@ -1,4 +1,4 @@
-1.0 - Instala Git en tu ordenador (https://git-scm.com/)
+1.0 - Instala Git en tu ordenador (https://git-scm.com/) y Python 3.10 (https://www.python.org/)
 
 1.1 - Utiliza estas referencias para buscar algo concreto de Python:
 
