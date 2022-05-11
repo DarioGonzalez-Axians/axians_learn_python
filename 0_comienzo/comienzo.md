@@ -1,15 +1,25 @@
 1.0 - Instala Git en tu ordenador (https://git-scm.com/)
+
 1.1 - Utiliza estas referencias para buscar algo concreto de Python:
+
         - https://github.com/rasbt/python_reference#a-collection-of-useful-scripts-tutorials-and-other-python-related-things
+
         - https://github.com/trekhleb/learn-python/blob/master/README.es-ES.md
+
 1.2 - Crea (si no tienes ya) una cuenta en https://github.com/ y otra en https://gitlab.com/
+
 1.3 - Crea una carpeta en tu local para dejar todo lo que tratemos aqui
+
 1.4 - Entra en esa carpeta desde una consola y ejecuta: git clone https://github.com/DarioGonzalez-Axians/axians_learn_python.git
 
+
 2.0 - Crea una cuenta en https://exercism.org/
+
 2.1 - Agrega el "track" de Python a tu cuenta desde https://exercism.org/tracks/python
+
 2.2 - En Syllabus (https://exercism.org/tracks/python/concepts) completa y
       comparte de forma pública lo que sea necesario en cada entrega   : +40 puntos
+
 
 3.0 - Ejercicio del enunciado
 - Si NO hace (ejecuta aunque sea pseudocódigo) lo que pide el enunciado: NO SIRVE. VUELVE A ENVIAR TU SOLUCION.
